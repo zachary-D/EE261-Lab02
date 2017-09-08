@@ -1,5 +1,4 @@
 // This program prints my name on the screen.
-#include "stdafx.h"
 #include <iostream>
 using namespace std;
 

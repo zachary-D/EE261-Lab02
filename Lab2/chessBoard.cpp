@@ -3,7 +3,6 @@
 // This program prints a chessboard pattern that is built up from
 // basic strings of white and black characters.
 //******************************************************************
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 

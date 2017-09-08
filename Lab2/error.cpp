@@ -1,5 +1,4 @@
 // Program Error prints 4 lines on the screen.
-#include "stdafx.h"
 #include <iostream>
 using namespace std;
 
