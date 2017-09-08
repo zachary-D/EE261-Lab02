@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="firstone.cpp" />
+    <ClCompile Include="error.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{089040CC-E9B6-4FE6-B147-E8FEB24DABB5}</ProjectGuid>

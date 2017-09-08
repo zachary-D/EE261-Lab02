@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   cout <<"This program demonstrates " <<endl;
-  cout <<"how a missing semicolon can "
+  cout << "how a missing semicolon can ";
 
   cout <<"cause a problem." <<endl;
   cout <<"*********************" <<endl;
